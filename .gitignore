@@ -1,0 +1,2 @@
+# ignore Composer/vendor if you rebuild on each machine
+/vendor/
